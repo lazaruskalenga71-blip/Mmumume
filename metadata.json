@@ -1,0 +1,6 @@
+{
+  "name": "Muntu Bemba — Offline Bemba Voice",
+  "description": "Offline Bemba text-to-speech application with client-side model manager and zip extraction verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
